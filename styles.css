@@ -51,3 +51,8 @@ a {
 strong {
     color:brown;
 }
+
+a:hover {
+    color:chocolate;
+
+}
